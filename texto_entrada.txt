@@ -1,0 +1,23 @@
+Roteiro inicial de estudos em Python
+
+1. 	Fundamentos da linguagem
+ok• 	Variáveis e tipos de dados (string, int, float, bool).
+ok• 	Operadores matemáticos e lógicos.
+ok•     Estruturas de controle: if, for, while.
+
+2. 	Estruturas de dados
+ok• 	Listas, tuplas, dicionários e conjuntos.
+ok• 	Manipulação de strings.
+
+3. 	Funções e módulos
+ok• 	Criar funções (def).
+ok• 	Importar módulos (import).
+ok• 	Trabalhar com bibliotecas externas (pip install).
+
+4. 	Arquivos e exceções
+ok• 	Ler e escrever arquivos (open).
+ok• 	Tratar erros com (try/except).
+
+5. 	Orientação a Objetos (OOP)
+ok• 	Classes, objetos, atributos e métodos.
+ok• 	Herança e encapsulamento.
